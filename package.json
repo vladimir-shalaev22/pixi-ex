@@ -1,0 +1,17 @@
+{
+  "name": "pixi-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vladimir Shalaev <vladimir-shalaev22@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "babel-brunch": "github:babel/babel-brunch",
+    "babel-preset-env": "^1.6.1",
+    "brunch": "^2.10.12",
+    "sass-brunch": "^2.10.4"
+  },
+  "dependencies": {
+    "pixi.js": "^4.6.2"
+  }
+}
